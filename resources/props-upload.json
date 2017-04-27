@@ -1,0 +1,9 @@
+{
+  "files": [
+    {
+      "pattern": "resources/file.zip",
+      "target": "libs-snapshot-local",
+      "props": "confidence='1';status='dev'"
+    }
+      ]
+}
