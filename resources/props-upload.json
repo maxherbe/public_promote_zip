@@ -2,8 +2,7 @@
   "files": [
     {
       "pattern": "file.tar.gz",
-      "target": "libs-snapshot-local",
-      "path": "/engie-digital/tommy",
+      "target": "libs-snapshot-local/engie-digital/tommy",
       "props": "confidence='1';status='dev'"
     }
       ]
