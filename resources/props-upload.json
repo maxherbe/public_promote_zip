@@ -3,7 +3,7 @@
     {
       "pattern": "file.tar.gz",
       "target": "libs-snapshot-local/engie-digital/tommy",
-      "props": "confidence='1';status='dev'"
+      "props": "status='dev'"
     }
       ]
 }
